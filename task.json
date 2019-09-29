@@ -1,0 +1,24 @@
+{
+    "atomCode": "atomdemo",
+    "execution": {    
+        "language": "python",
+        "demands": [],
+        "target": "demo"
+    },
+    "input": {
+        "inputDemo":{                       
+            "label": "输入示例",  
+            "type": "vuex-input",
+            "groupName": "",
+            "placeholder": "输入示例",
+            "desc": "输入示例"
+        }
+    }, 
+    "output": {
+        "outputDemo": {        
+            "description" : "输出示例",
+            "type": "string",
+            "isSensitive": false
+        }
+    }
+}
